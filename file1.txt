@@ -2,3 +2,6 @@ This is file1 in master
 This is file1 modified in master
 This is file1 modified in feature
 modified again in master
+new change
+Stash applied
+one more change
